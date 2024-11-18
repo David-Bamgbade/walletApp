@@ -30,9 +30,9 @@ class WalletAppApplicationTests {
     void testToSignUpCustomer() {
         SignupRequest request = new SignupRequest();
         request.setFirstName("Wale");
-        request.setLastName("Asade");
-        request.setPhoneNumber("08032468242");
-        request.setEmail("walex5457@gmail.com");
+        request.setLastName("Kelvin");
+        request.setPhoneNumber("08032468241");
+        request.setEmail("kelx5457@gmail.com");
         request.setPassword("Complish1*");
         request.setAppPin("1235");
         request.setConfirmPassword("Complish1*");
